@@ -11,11 +11,8 @@
 - prisma documentatie gelezen
 - brainstorm met de hele groep
 - postgreSQL documentatie gelezen
-- 
-
-> **Activiteiten:**
->
-> -
+- js web permissions documentatie gelezen
+- Tauri bekeken als alternatief voor vite om app te bouwen
 
 ---
 
@@ -23,6 +20,8 @@
 
 - Docker geïnstalleerd
 - wsl geïnstalleerd
+- js web camera permmissions basis applicatie gemaakt om te testen met Rik Baselier
+-
 
 > **Nieuwe skills:**
 >
@@ -33,7 +32,7 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
--
+- Tevreden met de vooruitgang 🙂
 
 > **Algmeeen gevoel:**
 >

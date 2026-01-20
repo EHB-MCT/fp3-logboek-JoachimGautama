@@ -21,6 +21,6 @@
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-- exhausted
+- exhausted 😵
 
 ---

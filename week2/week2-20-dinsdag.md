@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[DD/01/2026]`  
+**Datum:** `[20/01/2026]`  
 **Studentnaam:** `[Joachim Gautama]`  
 **Groepsnaam:** `[pateetjes]`
 
@@ -10,8 +10,8 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-- Benoem de exacte onderdelen of bestanden waar je wijzigingen in hebt doorgevoerd (bijv. “In `index.html` heb ik een overzicht van projecten toegevoegd en drie aanpassingen doorgevoerd in de CSS (voor `ul`, `li` en `.projectname`).”).
-- Als je iets samen met een teamgenoot hebt gemaakt, vermeld dit er duidelijk bij.
+- improved camera
+- improved 
 
 > **Activiteiten:**
 >

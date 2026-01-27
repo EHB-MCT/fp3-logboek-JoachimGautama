@@ -33,14 +33,7 @@ _Instructie (1 item per dag volstaat):_
 
 _Instructie:_
 
--   Noteer in 1 zin hoe je je voelt.
--   Voeg een kleur of symbool toe dat je stemming weergeeft (bijv. een donderwolk bij boosheid of een happy smiley als je tevreden bent).
-
-> **Algmeeen gevoel:**
->
-> -   **"Blij"** :smiley:
-> -   **"Gefrustreerd"** :zap:
-
+-   tevreden met het werk, stress voor deadline. 😐
 ---
 
 _Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
